@@ -1,1 +1,3 @@
-The NFC Feature
+Added NFC Payment
+/* By Deepthi from New Jersey */
+Added Samsung Pay
